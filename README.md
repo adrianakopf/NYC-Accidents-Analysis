@@ -34,14 +34,14 @@ Where specifically does accidents happen?
 How to model the crash data and build a model that predict the type of collision based on information collected from accident reports?
 
 ## CONCLUSIONS
-Safety of pedestrians and cyclists have been improving in 2013 - 2019. 
-The trend of cyclist injuries has improved significantly.
-When considering all accidents that have caused deaths, the top 3 contributing factors are: failure to yield right-of-way, driver distraction and traffic control disregard.
-When comparing the contribution of general electronics and cell phones to injuries and deaths; general electronics caused over 100 injuries between 2013 and 2015. Since 2016 the number of injuries caused by electronics  have been declining, Cell phone injuries have slowly increased since 2015.
-Comparing alcohol, illegal drugs, and prescription medications in accidents involving the motorist; alcohol has caused most injuries over the years.  On the other hand, prescription medications injuries have decreased significantly since 2016.
-Highly dense areas and darkness results in the highest injuries and deaths.
-The machine learning methodology confirms the results that person-related variables are the top contributing factors in accidents. 
-Person-, Road-, Weather-, and Vehicle-related variables relatively contribute 80%, 8%, 7%, and 4%, respectively, to the traffic crashes.
+* Safety of pedestrians and cyclists have been improving in 2013 - 2019. 
+* The trend of cyclist injuries has improved significantly.
+* When considering all accidents that have caused deaths, the top 3 contributing factors are: failure to yield right-of-way, driver distraction and traffic control disregard.
+* When comparing the contribution of general electronics and cell phones to injuries and deaths; general electronics caused over 100 injuries between 2013 and 2015. Since 2016 the number of injuries caused by electronics  have been declining, Cell phone injuries have slowly increased since 2015.
+* Comparing alcohol, illegal drugs, and prescription medications in accidents involving the motorist; alcohol has caused most injuries over the years.  On the other hand, prescription medications injuries have decreased significantly since 2016.
+* Highly dense areas and darkness results in the highest injuries and deaths.
+* The machine learning methodology confirms the results that person-related variables are the top contributing factors in accidents. 
+* Person-, Road-, Weather-, and Vehicle-related variables relatively contribute 80%, 8%, 7%, and 4%, respectively, to the traffic crashes.
 
 
 
