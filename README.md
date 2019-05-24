@@ -1,4 +1,4 @@
-# NYC Collisions Project
+# NYC Accidents
 Authors:
 Adriana Kopf, Olga Roginkin, Shivang Patel, Usama Ali
 
